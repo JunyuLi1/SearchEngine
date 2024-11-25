@@ -1,0 +1,3 @@
+Number of documents: 55393
+Number of unique words: 1093128
+File size: 954926.06 KB

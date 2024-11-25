@@ -1,0 +1,24 @@
+1. machine learning
+2. cristina lopes
+3. ACM
+4. master of software engineering
+5. Master of Human Computer Interaction
+6. Alex Thornton
+7. Michael Shindler
+8. to be or not to be
+9. Richard Pattis
+10. ICS 46 Spring Course News
+11. International Women Hackathon
+12. ICS student honor program
+13. Undergraduate Academic Advising
+14. Research Partnerships
+15. ICS Distinguished Lecturer Series
+16. Department of Computer Science
+17. Faculty Awards Honors
+18. Corporate Partners
+19. Upcoming Events
+20. IEEE
+
+First we test 'machine learning' but we got wrong results. Then, we used cosine similarity instead of just using tfidf as ranking.
+Testing ACM as input, we realized that the tfidf weight should be adjusted by multiplying instead of adding.
+Testing master of software engineering, we found important text should be <tilte> instead of <h>.....<title=xxxxx>.
