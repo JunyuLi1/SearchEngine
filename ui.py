@@ -46,7 +46,7 @@ class SearchEngine:
                 st.rerun()
 
     def search_result(self):
-        with open("index.txt", 'r', encoding='utf-8') as file:
+        with open("./index.txt", 'r', encoding='utf-8') as file:
             a = time.time()
             st.session_state.result = search(self.queries,self.data1,self.data2, file)
             b = time.time()
